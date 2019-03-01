@@ -1,0 +1,15 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "WR"
+       },
+       "summary": "Testing Jira APIs",
+       "description": "Creating of an issue using project keys",
+       "issuetype": {
+          "name": "Task"
+       },
+       "customfield_23157": { "value": "Incident" },
+       "customfield_14000": { "value": "Loyalty Infra Team" }
+   }
+}
